@@ -40,7 +40,7 @@ st.write(
 )
 
 st.title("Education")
-st.write("""- Lovely Professional University, Punjab | B.Tech CSE (Data Science with ML) | Aug 2022 - July 2026 | CGPA: 7.12
+st.write("""- Lovely Professional University, Punjab | B.Tech CSE (Data Science with ML) | Aug 2022 - July 2026 | CGPA: 6.72
 - Saraswati Vidya Mandir School, Jharkhand | Matriculation + Intermediate | April 2018 - March 2021
 - Aakash Institute, Ranchi, Jharkhand | Joint Entrance Examination(JEE Mains + Advanced) Coaching | May 2019 - Jan 2020""")
 
@@ -101,4 +101,5 @@ st.download_button(
     file_name="AnkeshSinghResume.pdf",
     mime="application/pdf"
 )
+
 
